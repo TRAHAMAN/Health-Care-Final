@@ -8,7 +8,7 @@ import lombok.ToString;
 
 @Data
 @Entity
-@Table(name = "User")
+@Table(name = "User_Details")
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
